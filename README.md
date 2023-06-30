@@ -5,6 +5,8 @@ I am Denis, or Circlemaniac. Call me anything you want.
 
 I love coding, drawing and making music.
 
+I code in GML and Lua (for now)
+
 I am yet to make any significant coding contributions, but for the others, check out my:
 
 # ![yt](https://cdn.discordapp.com/attachments/902577962241626122/1124476075272052807/youtube.png) [YouTube](https://www.youtube.com/@circlemaniac)
