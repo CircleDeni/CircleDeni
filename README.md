@@ -7,4 +7,6 @@ I love coding, drawing and making music.
 
 I am yet to make any significant coding contributions, but for the others, check out my:
 
-![ig](https://cdn.discordapp.com/attachments/902577962241626122/1124476074982654002/instagram.png "@circlemaniacdenis")[Instagram](https://www.instagram.com/circlemaniacdenis)
+# ![yt](https://cdn.discordapp.com/attachments/902577962241626122/1124476075272052807/youtube.png) [YouTube](https://www.youtube.com/@circlemaniac)
+
+# ![ig](https://cdn.discordapp.com/attachments/902577962241626122/1124476074982654002/instagram.png) [Instagram](https://www.instagram.com/circlemaniacdenis)
